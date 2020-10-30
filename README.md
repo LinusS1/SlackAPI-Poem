@@ -1,7 +1,6 @@
 # SlackAPI-Poem
 Poem about the Slack API
-
-PR your stanza (with a signature) in!
+I wrote this one day when I was feeling mad at the Slack API
 
 ```
 Slack API
@@ -17,5 +16,4 @@ As if you want me to burn.
 view_id? trigger_id? I do not know
 it's like this api wants me to go low
 -@LinusS1
-
 ```
